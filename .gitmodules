@@ -1,0 +1,4 @@
+[submodule "services/demo"]
+	path = services/demo
+	url = https://github.com/eshinn/fafo_service-demo.git
+	branch = main
