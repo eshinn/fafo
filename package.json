@@ -1,0 +1,24 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "A simple hello-world npm module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshinn/fafo.git"
+  },
+  "keywords": [
+    "hello-world",
+    "example"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eshinn/fafo/issues"
+  },
+  "homepage": "https://github.com/eshinn/fafo#readme"
+}
